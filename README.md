@@ -1,2 +1,2 @@
-# graph-coloring
+# Graph Coloring
 Graph Coloring
