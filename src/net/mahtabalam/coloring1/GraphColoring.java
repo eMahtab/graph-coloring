@@ -51,8 +51,7 @@ public class GraphColoring {
 				colors[vertexIndex] = 0;
 				System.out.println("Backtracking for vertex "+vertexIndex+"-"+Arrays.toString(colors));
 			}
-		}
-		
+		}		
 		//return false, as it was not feasible to color the vertex using any of the colors
 		return false;
 	}
